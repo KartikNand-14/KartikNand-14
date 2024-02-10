@@ -14,9 +14,9 @@ Welcome to my GitHub repository where I showcase my coding journey and various p
 
 Here are some of the projects you'll find in my repository:
 
-- [ToDo List App](#) - A MERN stack application for task management.
-- [Real-time Chat App](#) - A real-time web application for instant messaging.
-- [Sorting Visualizer](#) - A web-based application to visualize various sorting algorithms in action.
+- [ToDo List App](https://github.com/KartikNand-14/fullstack-todo-app--frontend) - A MERN stack application for task management.
+- [Real-time Chat App](https://github.com/KartikNand-14/ChatRoom_Application) - A real-time web application for instant messaging.
+- [Sorting Visualizer](https://github.com/KartikNand-14/Sorting-Visualizer) - A web-based application to visualize various sorting algorithms in action.
 
 Feel free to explore these projects, check out the code, and provide feedback!
 
