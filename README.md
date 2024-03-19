@@ -17,6 +17,7 @@ Here are some of the projects you'll find in my repository:
 - [ToDo List App](https://github.com/KartikNand-14/fullstack-todo-app--frontend) - A MERN stack application for task management.
 - [Real-time Chat App](https://github.com/KartikNand-14/ChatRoom_Application) - A real-time web application for instant messaging.
 - [Sorting Visualizer](https://github.com/KartikNand-14/Sorting-Visualizer) - A web-based application to visualize various sorting algorithms in action.
+- [Huffman Algorithm](https://github.com/KartikNand-14/Huffman-Algorithm) - A Data Structure project for efficient data compression and decompression using Java.
 
 Feel free to explore these projects, check out the code, and provide feedback!
 
